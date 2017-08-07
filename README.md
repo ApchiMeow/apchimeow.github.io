@@ -1,2 +1,0 @@
-# apchimeow.github.io
-ApchiMeow

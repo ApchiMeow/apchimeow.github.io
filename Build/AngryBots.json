@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "AngryBots.data.unityweb",
+"asmCodeUrl": "AngryBots.asm.code.unityweb",
+"asmMemoryUrl": "AngryBots.asm.memory.unityweb",
+"asmFrameworkUrl": "AngryBots.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
